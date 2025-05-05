@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./style.css"; // Import file CSS
 
 const products = [
   { id: 1, name: "Apple Watch", category: "Gadget" },
